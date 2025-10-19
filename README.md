@@ -102,5 +102,3 @@ Python Developer | Machine Learning & Backend Enthusiast
 🔗 GitHub: [maroof2424](https://github.com/maroof2424)
 
 ---
-Chaho to main tujhe ek **beautiful README with emojis + preview screenshot** bana du (like GitHub project showcase style)?
-Kya chahiyé minimalist ya fancy version?
