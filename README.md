@@ -83,15 +83,6 @@ A canvas will appear — draw a number (0–9), and the model will show its pred
 
 ---
 
-## 🌍 Deployment on Streamlit Cloud
-
-1. Push all files to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect repo → Select `main.py` → Deploy
-4. Done! 🎉 Your app will be live in seconds.
-
----
-
 ## 🧾 Requirements
 
 ```
