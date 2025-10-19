@@ -4,7 +4,8 @@ import numpy as np
 from tensorflow.keras.models import load_model
 from PIL import Image
 import matplotlib.pyplot as plt
-
+import os
+st.write("Files in directory:", os.listdir())
 # --------------------------
 # 🎯 Load the trained model
 # --------------------------
