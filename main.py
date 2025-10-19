@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # --------------------------
 # 🎯 Load the trained model
 # --------------------------
-model = load_model("mnist_cnn_model.keras")
+model = load_model("model/mnist_cnn_model.keras")
 
 # --------------------------
 # 🖼️ Streamlit UI Setup
