@@ -9,8 +9,7 @@ st.write("Files in directory:", os.listdir())
 # --------------------------
 # 🎯 Load the trained model
 # --------------------------
-model = load_model("model/mnist_cnn_model.keras")
-
+model = load_model("model/mnist_cnn_model.keras", compile=False)
 # --------------------------
 # 🖼️ Streamlit UI Setup
 # --------------------------
